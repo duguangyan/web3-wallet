@@ -21,7 +21,7 @@
     "@vue/cli-service": "~5.0.0",
     "less": "^4.0.0",
     "less-loader": "^8.0.0",
-    "node-polyfill-webpack-plugin": "^4.1.0",
+    "node-polyfill-webpack-plugin": "^2.0.1",
     "unplugin-vue-components": "^0.25.2"
   },
   "browserslist": [
